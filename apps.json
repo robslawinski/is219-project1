@@ -1,0 +1,15 @@
+{
+  "name": "is219s17slawinski-p1",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
