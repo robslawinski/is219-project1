@@ -1,3 +1,5 @@
+<? php
+?>	
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +11,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>Robert Slawinski's IS 219 Project 1</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -126,7 +128,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/fencing.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Fencing</h4>
@@ -154,7 +156,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/raspberry-pi-logo.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Raspberry Pi "Hacking"</h4>
@@ -202,7 +204,7 @@
 									Beginning of NJIT career</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">I started my NJIT Freshman Year on September 1st, 2014 as a Full-Time Computer Science major and Student Athlete. As the third semester picked up, I was struggling in class and knew I had to find a less challenging major. As such, I changed my major to Web & Information Systems in the Spring of 2016.</p>
                                 </div>
                             </div>
                         </li>
@@ -216,15 +218,15 @@
                                     <h4 class="subheading">Here We Are Today</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">While it has been a challenging experience, I believe my choice of going to Web and Information Systems has been a rather challenging and exciting journey. As Such, I would like to work on information systems in the future.</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>Thank You
-                                    <br>For
-                                    <br>Reading This!</h4>
+                                    <br/>For
+                                    <br/>Reading <br>This!</h4>
                             </div>
                         </li>
                     </ul>
@@ -239,7 +241,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Self</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
             <div class="row">
@@ -267,7 +269,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">I'm the one on the left wearing sunglasses. I hope you enjoyed the webpage and this will explain everything about me.</p>
                 </div>
             </div>
         </div>
@@ -322,7 +324,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Your Website 2016</span>
+                    <span class="copyright">Copyright &copy; Your Website 2017</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -366,7 +368,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Fencing</h2>
                                 <p class="item-intro text-muted">NJIT Men's Sabre Class of 2018.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/fencing.jpg" alt="">
                                 <p>I have been fencing for about 7 years and representing NJIT for almost 4 years. I started fencing in middle school and have since created a decent record for my fencing. However, it was soon that I recieved a full-tuition scholarship to fence for NJIT which, as you can see, I have accepted.</p>
                                 <ul class="list-inline">
                                     <li>Date: February 2017</li>
@@ -427,7 +429,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Raspberry Pi Hacking</h2>
                                 <p class="item-intro text-muted">Web Development</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/raspberry-pi-logo.png" alt="">
                                 <p>I have created an automated temperature controller in 2016 and a RetroPie emulator system over the winter break of 2017 utilizing Raspberry Pis and an Arduino.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
@@ -457,3 +459,4 @@
 </body>
 
 </html>
+?>
