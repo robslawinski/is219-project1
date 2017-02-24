@@ -250,7 +250,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/team/FacebookProfile.jpg" class="img-responsive img-circle" alt="">
                         <h4>Robert Slawinski</h4>
                         <p class="text-muted">Lead Programmer</p>
                         <ul class="list-inline social-buttons">
