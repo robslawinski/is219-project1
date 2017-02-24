@@ -1,5 +1,4 @@
-<? php
-?>	
+	
 <!DOCTYPE html>
 <html lang="en">
 
@@ -82,7 +81,7 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome To My Page!</div>
                 <div class="intro-heading">I'm Robert Slawinski</div>
-                <a href="#education" class="page-scroll btn btn-xl">Tell Me More</a>
+                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
     </header>
