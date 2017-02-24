@@ -42,7 +42,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Robert Slawinski Profile</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -79,7 +79,7 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome To My Page!</div>
                 <div class="intro-heading">I'm Robert Slawinski</div>
-                <a href="#education" class="page-scroll btn btn-xl">Tell Me More</a>
+                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
     </header>
