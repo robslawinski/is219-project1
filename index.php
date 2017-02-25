@@ -267,7 +267,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Me</h2>
-					<h3 class="section-heading"><i><u>Email </i></b>rjs59@njit.edu</h3>
+					<h3 class="section-heading"><i><u>Email </i></u>rjs59@njit.edu</h3>
                 </div>
             </div>
             <div class="row">
