@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-gb" class="no-js">
 <head>
     <meta charset="utf-8">   
