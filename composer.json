@@ -1,7 +1,9 @@
 {
  "scripts": {
     "post-install-cmd": [
-        "chmod -R 777 vendor"
+        "chmod -R 777 vendor",
+		"chmod -R 777 js",
+		"chmod -R 777 css"
     ]
  }
 }
