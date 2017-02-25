@@ -12,7 +12,7 @@
     <title>Robert Slawinski's IS 219 Project 1</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
 	
 
     <!-- Custom Fonts -->
