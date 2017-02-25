@@ -424,9 +424,9 @@
     </div>
 
     <!-- jQuery -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src='vendor/jquery/jquery.min.js'></script>
     <!-- Bootstrap Core JavaScript -->
-	<script src="vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>	
+	<script src='vendor/bootstrap/js/bootstrap.min.js' type='text/javascript'></script>	
 	
     <!-- Contact Form JavaScript -->
     <script src="js/jqBootstrapValidation.js" type="text/javascript"></script>
