@@ -428,7 +428,7 @@
 
     <!-- Bootstrap Core JavaScript -->
 	<script src="vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>	
-	<!--><script src ="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap‌​.min.js"></script><-->
+	
     <!-- Contact Form JavaScript -->
     <script src="js/jqBootstrapValidation.js" type="text/javascript"></script>
     <script src="js/contact_me.js"></script>
