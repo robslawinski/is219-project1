@@ -87,7 +87,7 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Web & Information Systems</h4>
+                    <h4 class="service-heading">Web and Information Systems</h4>
                     <p class="text-muted">I am majoring in Web and Information Systems as it is a challenging, yet interesting major.</p>
                 </div>
             </div>
@@ -187,7 +187,7 @@
 									Beginning of NJIT career</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">I started my NJIT Freshman Year on September 1st, 2014 as a Full-Time Computer Science major and Student Athlete. As the third semester picked up, I was struggling in class and knew I had to find a less challenging major. As such, I changed my major to Web & Information Systems in the Spring of 2016.</p>
+                                    <p class="text-muted">I started my NJIT Freshman Year on September 1st, 2014 as a Full-Time Computer Science major and Student Athlete. As the third semester picked up, I was struggling in class and knew I had to find a less challenging major. As such, I changed my major to Web and Information Systems in the Spring of 2016.</p>
                                 </div>
                             </div>
                         </li>
